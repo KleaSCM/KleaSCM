@@ -20,6 +20,8 @@
 - [Kdeamon](https://github.com/KleaSCM/Kdeamon): Minimalist, daemonized application launcher for Linux built with the Fyne GUI toolkit. provides an intuitive search bar with fuzzy matching, allowing users to quickly find and launch applications installed on their system.
 - [VulnSCAN](https://github.com/KleaSCM/vulnSCAN): Open Port Scanning: Checks for open ports on the target web address. Banner Grabbing: Retrieves service banners for open ports to help identify running services.
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KleaSCM&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KleaSCM&theme=neon&hide_border=false)<br/>
