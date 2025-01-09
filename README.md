@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭  I’m currently working on developing Kdeamon, a xplatform Daemonized application Launcher that uses Lua Go and C++ .<br>👯 I’m looking to collaborate on projects involving full-stack development, particularly with TypeScript, React, Go, Rust, or Tauri. I’m also interested in collaboration on cross-platform and microservices architecture.<br>🤝 I’m looking for help with enhancing Devonianreef, especially in optimizing the language translation features for better accuracy and performance.<br>🌱 I’m currently learning C++.<br>💬 Ask me about Full-stack development, cross-platform applications, Neovim configuration, and my projects like Axolotl, BlueFrog, KlieaAlchemy, and SylvDA.<br>⚡ Fun fact I grew up in the remote kimberlies in Australia and have a passion for World of Warcraft add-on development, having created several add-ons to enhance gameplay.
 
-
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/YgdXs3rn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/john-f-8094a9266) 
 
