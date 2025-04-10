@@ -1,0 +1,8 @@
+*.go linguist-language=Go
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+*.cpp linguist-language=C++
+*.c linguist-language=C++
+*.h linguist-language=C++
+*.py linguist-language=ignore
+*.ipynb linguist-language=ignore
