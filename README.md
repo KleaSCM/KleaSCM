@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4FC1FF&center=true&vCenter=true&width=800&lines=Fetured+%7C+Projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Fetured+%7C+Projects." alt="Typing SVG" />
 </p>
 
 
