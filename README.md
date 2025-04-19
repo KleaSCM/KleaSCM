@@ -53,8 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4FC1FF&center=true&vCenter=true&width=800&lines=Rust+%7C+Go+%7C+TypeScript;Backend+Engineer+%7C+Systems+Developer+%7C+Fullstack+Builder;Building+high-performance+systems+and+cognitive+AI.;Focus%3A+Rust+tooling%2C+Go+services%2C+TypeScript+UIs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🧩+Featured+Projects" alt="" />
 </p>
+
 
 
 
