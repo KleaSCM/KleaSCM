@@ -52,10 +52,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KleaSCM&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
-<!-- 🧩 Section Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=🧩+Featured+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=400&lines=🧩+Featured+Projects" alt=" " />
 </p>
+
 
 
 
