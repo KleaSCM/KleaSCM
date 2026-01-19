@@ -142,18 +142,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<!-- start of scocial shit -->
+<!-- social links -->
 <p align="center">
   <a href="https://discord.com/invite/YgdXs3rn">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://linkedin.com/in/Yuriko-A-8094a9266">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/">
+  <a href="https://www.kaggle.com/kleascm">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://authors.curseforge.com/#/projects">
+  <a href="https://curseforge.com/members/klieascm/projects">
     <img src="https://img.shields.io/badge/CurseForge-E3660A?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" />
   </a>
   <a href="https://vercel.com/klieas-projects-231d4d03">
