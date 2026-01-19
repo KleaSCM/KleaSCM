@@ -54,12 +54,6 @@
 
 </p>
 
-<!-- trophy -->
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KleaSCM&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Featured+%7C+Projects." alt="Typing SVG" />
 </p>
