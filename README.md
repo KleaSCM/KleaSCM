@@ -49,7 +49,7 @@
 <!-- GH stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KleaSCM&theme=tokyonight&hide_border=false&count_private=true&show_icons=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KleaSCM&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=KleaSCM&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleaSCM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 
 </p>
