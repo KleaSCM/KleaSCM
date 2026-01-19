@@ -49,11 +49,6 @@
 
 </p>
 
-
-
-
-
-
 <!-- strophy  -->
 <!-- 🏆 GitHub Trophies -->
 <p align="center">
@@ -64,89 +59,84 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Fetured+%7C+Projects." alt="Typing SVG" />
 </p>
 
-
-
-
-
-
-<!-- 🧠 SHANDRIS -->
+<!-- 💜 AURELIA -->
 <p align="left">
-  <a href="https://github.com/KleaSCM/Shandris">
-    <img src="https://img.shields.io/badge/Shandris-AI_Core-9F5FFF?style=for-the-badge" alt="Shandris" />
+  <a href="https://github.com/KleaSCM/Aurelia">
+    <img src="https://img.shields.io/badge/Aurelia-Virtual_Ecosystem-9370DB?style=for-the-badge" alt="Aurelia" />
   </a>
 </p>
 
-> A Rust-powered cognitive AI engine featuring modular memory architecture, trait-based personality evolution, and context-aware emotional state modeling. Designed for adaptive behavior, persistent identity tracking, and intelligent prompt construction.
-
+> A cycle-accurate 64-bit RISC ecosystem emulator written in C++23, modeling the full hardware stack from CPU pipeline microarchitecture to NAND flash quantum tunneling physics. Features a custom ISA with 32+ opcodes, Von Neumann bus architecture, NVMe storage controller simulation, interrupt handling, and a complete assembler toolchain.
 
 <!-- tech used badges -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/tokio-444?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
 </p>
 
-<!-- 🖥️ GREMLINCLI -->
+<!-- � NETSCOPE -->
 <p align="left">
-  <a href="https://github.com/KleaSCM/Gremlincli">
-    <img src="https://img.shields.io/badge/GremlinCLI-Terminal_Mischief-FF69B4?style=for-the-badge" alt="GremlinCLI" />
+  <a href="https://github.com/KleaSCM/netscope">
+    <img src="https://img.shields.io/badge/NetScope-Network_Observatory-00CED1?style=for-the-badge" alt="NetScope" />
   </a>
 </p>
 
-> A modular developer CLI tool built in Rust for managing project scaffolding, categorized script execution, and workflow automation. Features a text-based UI using `ratatui`, dynamic command mapping, and a persistent, navigable dashboard interface designed for efficient terminal-based development.
-
-<!-- tech used badges -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/ratatui-FC6C85?style=flat-square" />
-</p>
-
-<!-- 🐚 KDEMON -->
-<p align="left">
-  <a href="https://github.com/KleaSCM/Kdemon">
-    <img src="https://img.shields.io/badge/Kdemon-Demon_Launcher-00CED1?style=for-the-badge" alt="Kdemon" />
-  </a>
-</p>
-
-> A fast, keyboard-driven application launcher for Linux, designed to run as a systemd user service or via desktop file. Kdemon offers quick access to files and applications through a minimal, borderless interface. It features global hotkey support, fuzzy matching for intuitive navigation, real-time file system monitoring, and a default dark theme. Built with a modular architecture utilizing Rust, Iced for the UI, and notify-rs for file system events.
-
-<!-- tech used badges -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/iced-68A063?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
-</p>
-
-<!-- 🧲 RUST PHYSICS ENGINE -->
-<p align="left">
-  <a href="https://github.com/KleaSCM/PhysicsEngine">
-    <img src="https://img.shields.io/badge/Physics_Engine-Rust_Core-FFA500?style=for-the-badge" alt="RustPhysicsEngine" />
-  </a>
-</p>
-
-> A real-time physics engine written in Rust, implementing rigid body dynamics with quaternion rotation, semi-implicit Euler integration, and narrow-phase collision detection using the Separating Axis Theorem (SAT). Supports impulse-based collision resolution with friction, restitution, and positional correction. Includes spatial hashing for broad-phase optimization and a custom math module for vector, matrix, and quaternion operations.
-
-<!-- tech used badges -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</p>
-
-<!-- 🌍 GEOGO -->
-<p align="left">
-  <a href="https://github.com/KleaSCM/GeoGO">
-    <img src="https://img.shields.io/badge/GeoGO-Geospatial_API-40B4A5?style=for-the-badge" alt="GeoGO" />
-  </a>
-</p>
-
-> GeoGO is a geospatial system that allows users to query meteorite impact locations worldwide. It provides a RESTful interface for retrieving meteorite data, searching for nearby impacts, and analyzing their distribution based on real-world scientific datasets. It also includes a Next.js frontend that displays these meteorites on an interactive map, showcasing the power of Go and geospatial technologies.
-> Go-based geospatial API with PostGIS, Redis caching, Leaflet.js frontend, and meteorite search tools.
-
+> A comprehensive network traffic analysis platform written in Go, featuring real-time packet capture, multi-layer protocol parsing, DNS correlation, TLS fingerprinting (JA3/JA4), device identification, and anomaly detection. Includes GeoIP enrichment, behavioral baselining, privacy leak detection, and an interactive web dashboard for visualization.
 
 <!-- tech used badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-0099CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/libpcap-333?style=flat-square" />
+</p>
+
+<!-- 🎮 KANAE -->
+<p align="left">
+  <a href="https://github.com/KleaSCM/Kanae">
+    <img src="https://img.shields.io/badge/Kanae-Game_Engine-FF6B9D?style=for-the-badge" alt="Kanae" />
+  </a>
+</p>
+
+> A modular game engine written in C++23 featuring an OpenGL renderer, Lua scripting via sol2, custom physics with broadphase collision detection, ECS-style systems architecture, asset pipeline with texture/mesh/font importers, audio via miniaudio, and a virtual filesystem. Includes MSDF font rendering, ImGui integration, scene management, and job-based threading.
+
+<!-- tech used badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImGui-333?style=flat-square" />
+</p>
+
+<!-- 🌿 STERIA -->
+<p align="left">
+  <a href="https://github.com/KleaSCM/Steria">
+    <img src="https://img.shields.io/badge/Steria-Version_Control-6B8E23?style=for-the-badge" alt="Steria" />
+  </a>
+</p>
+
+> A modern version control system written in Go, featuring branching, merging, rebasing, cherry-picking, stashing, and conflict resolution. Includes remote repository support with S3 integration, diff visualization with syntax highlighting, blame tracking, and a comprehensive CLI built with Cobra. Designed for efficient project management and workflow automation.
+
+<!-- tech used badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cobra-888?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+</p>
+
+<!-- 🔓 AKAYLEE -->
+<p align="left">
+  <a href="https://github.com/KleaSCM/Akaylee">
+    <img src="https://img.shields.io/badge/Akaylee-Security_Fuzzer-DC143C?style=for-the-badge" alt="Akaylee" />
+  </a>
+</p>
+
+> A modular security fuzzer written in Go, supporting both binary and HTTP API fuzzing with coverage-guided mutation strategies. Features bit-flip and grammar-aware mutators, headless browser automation via chromedp for dynamic testing, crash reproduction, and real-time statistics. Built with a pluggable architecture for custom executors, analyzers, and mutation strategies.
+
+<!-- tech used badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/chromedp-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cobra-888?style=flat-square" />
 </p>
 
 ---
