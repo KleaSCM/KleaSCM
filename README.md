@@ -14,18 +14,27 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua" />
 </p>
 <!-- Graphics & Systems badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl" />
-  <img src="https://img.shields.io/badge/GLFW-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ImGui-333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake" />
   <img src="https://img.shields.io/badge/libpcap-333?style=for-the-badge" />
 </p>
+<!-- Web & Frontend badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron" />
+</p>
 <!-- Backend & DB badges -->
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis" />
   <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3" />
@@ -35,7 +44,7 @@
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cobra-888?style=for-the-badge" />
   <img src="https://img.shields.io/badge/chromedp-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/miniaudio-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
 </p>
 <!-- GH stats -->
 <p align="center">
