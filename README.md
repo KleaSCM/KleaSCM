@@ -137,6 +137,22 @@
   <img src="https://img.shields.io/badge/Cobra-888?style=flat-square" />
 </p>
 
+<!-- 🕳️ TIKA -->
+<p align="left">
+  <a href="https://github.com/KleaSCM/tika">
+    <img src="https://img.shields.io/badge/Tika-Black_Hole_Raytracer-9370DB?style=for-the-badge" alt="Tika" />
+  </a>
+</p>
+
+> A real-time Kerr metric black hole raytracer written in C++23 and GLSL, implementing Hamiltonian geodesic integration via RK4 for photon trajectories in curved spacetime. Features exact relativistic flux transport using Liouville's theorem, accretion disk rendering with blackbody radiation, gravitational redshift, frame dragging visualization, and ergosphere effects.
+
+<!-- tech used badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-333?style=flat-square" />
+</p>
+
 ---
 <!-- Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
