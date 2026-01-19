@@ -7,7 +7,7 @@
 </p>
 <!-- Auto type because yes -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4FC1FF&center=true&vCenter=true&width=800&lines=Rust+%7C+Go+%7C+TypeScript;Backend+Engineer+%7C+Systems+Developer+%7C+Fullstack+Builder;Building+high-performance+systems+and+cognitive+AI.;Focus%3A+Rust+tooling%2C+Go+services%2C+TypeScript+UIs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4FC1FF&center=true&vCenter=true&width=800&lines=C%2B%2B+%7C+Go+%7C+Systems+Programming;Game+Engines+%7C+Network+Analysis+%7C+Security+Tooling;Building+emulators%2C+engines%2C+and+developer+tools." alt="Typing SVG" />
 </p>
 </div>
 <!-- Language badges -->
