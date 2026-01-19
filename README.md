@@ -12,34 +12,30 @@
 </div>
 <!-- Language badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua" />
 </p>
-<!-- framework badge 1 -->
+<!-- Graphics & Systems badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri" />
-  <img src="https://img.shields.io/badge/iced-68A063?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ratatui-FC6C85?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl" />
+  <img src="https://img.shields.io/badge/GLFW-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ImGui-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake" />
+  <img src="https://img.shields.io/badge/libpcap-333?style=for-the-badge" />
 </p>
-<!-- DB badges-->
+<!-- Backend & DB badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/PostGIS-0099CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3" />
 </p>
-<!-- freamework badges 2 -->
+<!-- Framework & Tools badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Echo-0099CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cobra-888888?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/tokio-444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cobra-888?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/chromedp-333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/miniaudio-333?style=for-the-badge" />
 </p>
 <!-- GH stats -->
 <p align="center">
